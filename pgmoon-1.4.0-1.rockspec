@@ -1,5 +1,5 @@
 package = "pgmoon"
-version = "dev-1"
+version = "1.4.0-1"
 
 source = {
   url = "git://github.com/leafo/pgmoon.git"
